@@ -96,8 +96,7 @@ Instructions for use
 
 **④ SMSCA-Assembler**
 
- ``$ SMSCA-Assembler –l [libraryname] -s [file of spec format] 
--fastq [fastq file name] [frg]``
+ ``$ SMSCA-Assembler –l [libraryname] -s [file of spec format] -fastq [fastq file name] [frg]``
 
 *Options*
 
