@@ -27,6 +27,8 @@ This means the SMSAligner operation mapped files of reads starting from the star
 
  `` $ SMSCA-Assembler –l [libraryname] -s [file of spec format] -fastq [fastq file name] [frg]``
 
+*Options*
+
 ::
 
   -l libraryname Name of the library; freeformat text.
