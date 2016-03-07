@@ -89,8 +89,6 @@ Instructions for use
 
  ``$ fasta2fastq –A [fasta file name] –Q [fastq file name]``
 
-*Options*
-
 *Example：*
 
   ``$ fasta2fastq –A correctedSequences.fasta –Q correctedSequences.fastq``
